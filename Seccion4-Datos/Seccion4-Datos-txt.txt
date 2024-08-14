@@ -1,12 +1,12 @@
 # Querido estudiante,
 #
 #Bienvenido al mundo de los datos del Basketball!
-#Estoy seguro de que vas a disfrutar esta sección del curso de Programación en Python
+#Estoy seguro de que vas a disfrutar esta secciÃ³n del curso de ProgramaciÃ³n en Python
 #
 #Instrucciones para este set de datos: 
-#Simplemente copia TODAS las líneas en este archivo presionando 
+#Simplemente copia TODAS las lÃ­neas en este archivo presionando 
 #CTRL+A en Windows o CMND+A en Mac, pega en un Jupyter Notebook y corre la celda del Jupyter Notebook 
-#Una vez que hayas ejecutado los comandos, los siguientes objetos serán creados: 
+#Una vez que hayas ejecutado los comandos, los siguientes objetos serÃ¡n creados: 
 #Matrices:
 # - sueldo
 # - juegos
@@ -17,31 +17,28 @@
 # Listas:
 # - jugadores
 # - temporadas
-# Diccionarios (este concepto lo vamos a aprender durante la sección):
+# Diccionarios (este concepto lo vamos a aprender durante la secciÃ³n):
 # - dic_temp
 # - dic_jug
 #
-# Sinceramente
-# Diego López
-#www.superdatascience.com
 #
-#Copyright: Estos sets de datos fueron creados usando información disponible al público
-#	Sin embargo, estos scripts están protegidos por leyes de Derecho de Autor
-#	Si deseas usar este script de Python fuera del curso de Programación en Python,
+#Copyright: Estos sets de datos fueron creados usando informaciÃ³n disponible al pÃºblico
+#	Sin embargo, estos scripts estÃ¡n protegidos por leyes de Derecho de Autor
+#	Si deseas usar este script de Python fuera del curso de ProgramaciÃ³n en Python,
 #	creado por Kirill Eremenko, lo puedes hacer siempre y cuando hagas referencia a 
 #	www.superdatascience.com en tu trabajo
 #
 #Comentarios: 
-#Las temporadas están etiquetadas con el primer año de la temporada
+#Las temporadas estÃ¡n etiquetadas con el primer aÃ±o de la temporada
 #Ejemplo: la temporada 2012-2013 es presentada como 2012
 #
 # Notas adicionales:
 #Kevin Durant: 2006 - Datos de temporada universitaria
-#Kevin Durant: 2005 – Creada con datos  del 2006
-#Derrick Rose: 2012 – No jugó
+#Kevin Durant: 2005 â€“ Creada con datos  del 2006
+#Derrick Rose: 2012 â€“ No jugÃ³
 #Derrick Rose: 2007 - Datos de temporada universitaria
-#Derrick Rose: 2006 – Creada con datos de temporada 2007
-#Derrick Rose: 2005 – Creada con datos de temporada 2007
+#Derrick Rose: 2006 â€“ Creada con datos de temporada 2007
+#Derrick Rose: 2005 â€“ Creada con datos de temporada 2007
 
 
 #Importar numpy
